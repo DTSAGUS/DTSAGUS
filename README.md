@@ -4,8 +4,8 @@
 
 <div align="center">
 <a href="https://github.com/TyrionLnnstr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TyrionLnnstr&count_private=true&show_icons=true&theme=radical"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyrionLnnstr&count_private=true&show_icons=true&theme=radical"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=TyrionLnnstr&count_private=true&show_icons=true&theme=radical"/>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyrionLnnstr&count_private=true&show_icons=true&theme=radical"/>
  </a>
 </div>  
  
