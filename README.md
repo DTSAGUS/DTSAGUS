@@ -23,7 +23,7 @@
     <a href="https://www.linkedin.com/in/gusdata"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://api.whatsapp.com/send?phone=5511970190176"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
     <a href="https://t.me/FiodorDostoievski"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-    <a href="https://www.instagram.com/gus.net.br/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://www.instagram.com/data_gus/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   </div> <br>
 
   <p>Sinta-se à vontade para me contatar para discutir qualquer coisa relacionada a dados, literatura, jogos ou cultura pop!</p>
