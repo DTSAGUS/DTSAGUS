@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=gcp,python,git&perline=3" alt="Skills">
   </div><br>
 
-  <h2>💻SO</h2>
+  <h2>💻S.O</h2>
   <div style="display: inline_block"> <br>
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint">
