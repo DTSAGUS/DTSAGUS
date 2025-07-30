@@ -7,7 +7,7 @@
 
   <h2>🐱‍👤Skills</h2>
   <div>
-    <img src="[https://skillicons.dev/icons?i=python,git&perline=3, bitbucket,linux, aws,obsidian](https://skillicons.dev/icons?i=python,github,bitbucket,linux,aws,obsidian&perline=6) alt="Skills">
+    <img src="https://skillicons.dev/icons?i=python,github,bitbucket,linux,aws,obsidian&perline=6">
   </div><br>
 
   <h2>💻S.O</h2>
