@@ -5,7 +5,7 @@
   <h2>Sobre mim</h2>
   <p>Olá! Eu sou GUS e sou um estudante autodidata, formado em Engenharia de Produção e com um MBA em Data Science e Analytics. Atualmente, estou focado em aprimorar minhas habilidades em Python, enquanto trabalho minha especialidade que são os códigos em SQL. Além disso, possuo sólida experiência em ferramentas de visualização de dados como Tableau e Power BI.</p>
 
-  <h2>🐱‍👤Skills</h2>
+  <h2>👨‍💻Skills</h2>
   <div>
     <img src="https://skillicons.dev/icons?i=python,github,bitbucket,linux,aws,obsidian&perline=6">
   </div><br>
