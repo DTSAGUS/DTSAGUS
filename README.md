@@ -21,7 +21,6 @@
   <div style="display: inline_block"> <br>
     <a href="https://public.tableau.com/app/profile/gustavo.santos.jos."><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"></a>
     <a href="https://www.linkedin.com/in/gusdata"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/nerd.adventures"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   </div> <br>
 
   <p>Sinta-se à vontade para me contatar para discutir qualquer coisa relacionada a dados, literatura, jogos ou cultura pop!</p>
